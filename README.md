@@ -32,6 +32,7 @@ PandorasBox group training repository
    git push --set-upstream origin [branch_name]  # при первом пуше
    git push                                      # когда ветка создана
 10. git checkout main
+    
     git pull
 
 тренажер по Git
