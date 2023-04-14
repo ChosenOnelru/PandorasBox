@@ -440,9 +440,3 @@
 #             result += '-'
 #         result += num_str[i]
 #     return result
-
-# здесь была создана ветка TC-AndrewZ
-def hello(name): # функция Привет
-    return print(f'Hello, {name}!')
-
-hello('Team')
