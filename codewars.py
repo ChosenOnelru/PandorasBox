@@ -441,5 +441,5 @@
 #         result += num_str[i]
 #     return result
 
-def hello(name): проверка работы в гит
-    return
+def hello(name): # какой-то коммпентарий
+    return # какой-то комментарий
