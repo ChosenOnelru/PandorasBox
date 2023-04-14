@@ -440,3 +440,6 @@
 #             result += '-'
 #         result += num_str[i]
 #     return result
+
+def hello(name): проверка работы в гит
+    return
