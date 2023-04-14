@@ -25,13 +25,13 @@ PandorasBox group training repository
 
 Для командной строки:
 
-2 git clone url [folder]
-4 git checkout -b [branch_name]
-6 git add . (если создавали новые файлы)
-  git commit -m "Added beautiful fixes"
-  git push --set-upstream origin [branch_name]  # при первом пуше
-  git push                                      # когда ветка создана
-10 git checkout main
+2         git clone url [folder]
+4         git checkout -b [branch_name]
+6         git add . (если создавали новые файлы)
+          git commit -m "Added beautiful fixes"
+          git push --set-upstream origin [branch_name]  # при первом пуше
+          git push                                      # когда ветка создана
+10        git checkout main
     
    git pull
 
