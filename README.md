@@ -25,21 +25,21 @@ PandorasBox group training repository
 
 Для командной строки:
 
-2         git clone url [folder]
+2 git clone url [folder]
 
-4         git checkout -b [branch_name]
+4 git checkout -b [branch_name]
 
-6         git add . (если создавали новые файлы)
-
-          git commit -m "Added beautiful fixes"
+6 git add . (если создавали новые файлы)
+  
+  git commit -m "Added beautiful fixes"
           
-          git push --set-upstream origin [branch_name]  # при первом пуше
+  git push --set-upstream origin [branch_name]  # при первом пуше
           
-          git push                                      # когда ветка создана
+  git push                                      # когда ветка создана
           
-10        git checkout main
-    
-          git pull
+10 git checkout main
+   
+   git pull
 
 тренажер по Git
 https://learngitbranching.js.org/?locale=ru_RU
