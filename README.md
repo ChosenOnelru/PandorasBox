@@ -25,7 +25,7 @@ PandorasBox group training repository
 
 Для командной строки:
 
-2 git clone url [folder]
+2 git clone [URL] [folder]
 
 4 git checkout -b [branch_name]
 
