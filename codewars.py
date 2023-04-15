@@ -447,4 +447,4 @@ def hello(name): # какой-то коммпентарий
     return # какой-то комментарий
 
 def newfunc(a,b):
-    return # 1Vyacheslav_Beliaev
+    return ()# 1Vyacheslav_Beliaev
