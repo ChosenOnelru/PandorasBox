@@ -446,5 +446,6 @@
 def hello(name): # какой-то коммпентарий
     return # какой-то комментарий
 
-def newfunc(a,b):
+def pandorales(a,b):
     return ()# 1Vyacheslav_Beliaev
+
