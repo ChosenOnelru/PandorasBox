@@ -447,5 +447,6 @@ def hello(name): # какой-то коммпентарий
     return # какой-то комментарий
 
 def pandorales(a,b):
+    a * b # test
     return ()# 1Vyacheslav_Beliaev
 
