@@ -30,6 +30,8 @@ def test_weathermap_search():
     driver.find_element(By.XPATH, '//span[text()="Moscow"]').click()
 
 
+
+
 def test_open_page():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get('https://openweathermap.org/')
@@ -38,6 +40,9 @@ def test_open_page():
     time.sleep(10)
     ActionChains(driver).drag_and_drop_by_offset(temp_change, 72, 0).perform()
     time.sleep(5)
+
 def test_conflickt():
     print("sd")
     pr
+
+
