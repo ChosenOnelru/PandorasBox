@@ -28,3 +28,6 @@ def test_weathermap_search():
     search_city.send_keys('Moskow')
     search_city.send_keys(Keys.ENTER) # нажатие Enter
     driver.find_element(By.XPATH, '//span[text()="Moscow"]').click()
+
+def test_conflickt():
+    print("sd")
