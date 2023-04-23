@@ -38,9 +38,6 @@ def test_open_page():
     time.sleep(10)
     ActionChains(driver).drag_and_drop_by_offset(temp_change, 72, 0).perform()
     time.sleep(5)
-
-
-
 def test_conflickt():
     print("sd")
     pr
