@@ -18,3 +18,6 @@ def test_change_gradus():
     time.sleep(10)
     ActionChains(driver).drag_and_drop_by_offset(temp_change, 72, 0).perform()
     time.sleep(10)
+
+
+#  new row
