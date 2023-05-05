@@ -20,4 +20,11 @@ def test_change_gradus():
     time.sleep(10)
 
 
-#  new row
+def test_open_page():
+    driver.get("https://openweathermap.org/")
+    driver.maximize_window()
+    assert "https://openweathermap.org/" in driver.current_url
+
+    
+def test_check_page_title():
+    assert driver.title == 'Сurrent weather and forecast - OpenWeatherMap'
